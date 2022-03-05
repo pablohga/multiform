@@ -32,6 +32,19 @@ export const Container = styled.div`
       color: #fff;
       outline: 0;
       font-size: 15px;
+      background-color: #02044a;
     }
+  }
+
+  button {
+    background-color: #25cd89;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 20px 40px;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 30px;
   }
 `;
